@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://weatheralerts.github.io/pl/sitemap.xml
